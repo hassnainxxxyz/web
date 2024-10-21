@@ -264,3 +264,6 @@ document.getElementById('leave-btn').addEventListener('click', leaveStream)
 
 
 joinRoomInit()
+
+
+alert('wtf');
